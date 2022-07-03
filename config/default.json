@@ -1,0 +1,11 @@
+{
+    "reporting": {
+        "timezone": "Asia/Kolkata",
+        "datetimeformat": "YYYY/MM/DD/HH:mm:ss"
+    },
+    "openapispec": [
+        {
+            "path": "http://localhost:3000/logistics/spec.json"
+        }
+    ]
+}
